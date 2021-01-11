@@ -1,5 +1,5 @@
+// Written by Karl Yerkes
 #include <string>
-
 #include "everything.h"  // mono
 
 int main(int argc, char* argv[]) {

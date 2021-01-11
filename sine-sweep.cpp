@@ -1,3 +1,4 @@
+// Written by Karl Yerkes
 #include "everything.h"
 
 int main(int argc, char* argv[]) {

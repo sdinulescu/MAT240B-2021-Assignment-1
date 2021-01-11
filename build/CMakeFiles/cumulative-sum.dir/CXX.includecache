@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/stejaraiulia/GitHub/MAT240B-2021-Assignment-1/cumulative-sum.cpp
+iostream
+-
+everything.h
+/Users/stejaraiulia/GitHub/MAT240B-2021-Assignment-1/everything.h
+
+/Users/stejaraiulia/GitHub/MAT240B-2021-Assignment-1/everything.h
+cmath
+-
+vector
+-
+

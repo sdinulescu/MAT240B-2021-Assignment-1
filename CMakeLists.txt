@@ -14,5 +14,11 @@ add_executable(cumulative-sum cumulative-sum.cpp)
 add_executable(difference difference.cpp)
 add_executable(sine sine.cpp)
 add_executable(sine-sweep sine-sweep.cpp)
+add_executable(sawtooth sawtooth.cpp)
+add_executable(saw-sweep sawtooth-sweep.cpp)
+add_executable(square square.cpp)
+add_executable(square-sweep square-sweep.cpp)
+add_executable(triangle triangle.cpp)
+add_executable(triangle-sweep triangle-sweep.cpp)
 
 ## Add lines here to make new executable targets

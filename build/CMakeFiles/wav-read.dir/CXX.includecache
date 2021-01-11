@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/stejaraiulia/GitHub/MAT240B-2021-Assignment-1/dr_wav.h
+stddef.h
+-
+stdint.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+stdio.h
+-
+assert.h
+-
+
+/Users/stejaraiulia/GitHub/MAT240B-2021-Assignment-1/wav-read.cpp
+iostream
+-
+string
+-
+dr_wav.h
+/Users/stejaraiulia/GitHub/MAT240B-2021-Assignment-1/dr_wav.h
+
